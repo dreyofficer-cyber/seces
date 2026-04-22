@@ -2,17 +2,17 @@ const columns = [
   {
     num: '01 — INPUT',
     title: 'THE INTERROGATION',
-    body: '37 structured questions about your business. Designed to expose what you're avoiding.',
+    body: "37 structured questions about your business. Designed to expose what you're avoiding.",
   },
   {
     num: '02 — ANALYSIS',
     title: 'THE VERDICT',
-    body: 'We identify where your system is broken. No framing, no sugarcoating. Just the diagnosis.',
+    body: "We identify where your system is broken. No framing, no sugarcoating. Just the diagnosis.",
   },
   {
     num: '03 — OUTPUT',
     title: 'THE DIRECTIVE',
-    body: 'You get 3–5 actions that actually matter. Ranked by leverage. Executable immediately.',
+    body: '3–5 actions that actually matter. Ranked by leverage. Executable immediately.',
   },
 ]
 
